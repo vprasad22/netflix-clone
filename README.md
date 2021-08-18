@@ -1,6 +1,10 @@
-# Netflix Front Page Full-Stack Clone (Description and Images)
+# Netflix Front Page Full-Stack Clone (Description and Images+Recording)
 This project is a fully functioning clone of the front page of the Netflix website. Features included: movie trailer pop-ups of netflix original movies, scroll through movies under several topics, and a full front-end replicating the Netflix front page (images below). 
-Movies were taken by TMDb (the movie database) API. NPM's used: react-youtube, movie trailer, and axios. 
+Movies were taken by TMDb (the movie database) API. NPM's used: reac
+
+
+
+t-youtube, movie trailer, and axios. 
 
 This project was bootstrapped with React, here is how to run it:
 
@@ -14,4 +18,5 @@ Images:
 
 <img width="1062" alt="Screen Shot 2021-08-18 at 2 05 58 PM" src="https://user-images.githubusercontent.com/60362574/129973153-e822b7d7-cbd7-437b-a709-2bb8191c30d2.png">
 
+https://user-images.githubusercontent.com/60362574/129974713-72f01579-de6a-42fc-a48f-3d7e2624a629.mov
 
