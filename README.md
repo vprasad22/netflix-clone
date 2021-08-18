@@ -18,5 +18,9 @@ Images:
 
 <img width="1062" alt="Screen Shot 2021-08-18 at 2 05 58 PM" src="https://user-images.githubusercontent.com/60362574/129973153-e822b7d7-cbd7-437b-a709-2bb8191c30d2.png">
 
-https://user-images.githubusercontent.com/60362574/129974713-72f01579-de6a-42fc-a48f-3d7e2624a629.mov
+
+
+https://user-images.githubusercontent.com/60362574/129979912-132d5f68-7873-4b19-93d0-a6b17a2d3ef9.mov
+
+
 
